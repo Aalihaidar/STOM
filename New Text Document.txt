@@ -1,0 +1,1 @@
+python main.py SwinTrack Tiny --weight_path C:/Users/aalih/Documents/SwinTrack/SwinTrack/SwinTrack-Tiny.pth --mixin_config evaluation.yaml --output_dir C:/Users/aalih/Documents/SwinTrack/output
